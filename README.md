@@ -8,8 +8,8 @@ Facilitated an easy-to-use drag and drop itinerary planner, allowing users to vi
 
 3.AI-Driven Recommendations: Provides AI-generated travel suggestions for travel planning.
 
-
-```## Project Screenshots
+<!--
+## Project Screenshots
 ![fullstack-app-travello](https://github.com/wei30172/fullstack-app-travello/assets/60259324/26893b29-5d67-49ad-aee3-faeb25d782b2)
 ![fullstack-app-travello](https://github.com/wei30172/fullstack-app-travello/assets/60259324/46c919a6-de4f-4934-9f3a-4e5fac010b1f)
 ![fullstack-app-travello](https://github.com/wei30172/fullstack-app-travello/assets/60259324/d62b8e1b-f622-406e-9269-eecbd040b5df)
@@ -21,7 +21,7 @@ Facilitated an easy-to-use drag and drop itinerary planner, allowing users to vi
 ![fullstack-app-travello](https://github.com/wei30172/fullstack-app-travello/assets/60259324/3932f0b0-a969-4dc0-8394-67fa0db3ffe3)
 ![fullstack-app-travello](https://github.com/wei30172/fullstack-app-travello/assets/60259324/9d1cf3c5-d9d5-4ba6-a925-13a1dd8acf01)
 ![fullstack-app-travello](https://github.com/wei30172/fullstack-app-travello/assets/60259324/7a10ca3c-588b-49a6-9d0b-c7304cb91c48)
-```
+-->
 ## Test email & password
 testemail@testnet.co.us / test1234!
 
